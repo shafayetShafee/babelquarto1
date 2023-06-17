@@ -8,8 +8,6 @@ quarto_multilingual_book(
 )
 
 
-babelquarto::render_book("./blop")
-
+# babelquarto::render_book("./blop")
 # cp blop/_book/* docs -r
-
-create_abs_lang_link("docs", base_link = "https://shafayetshafee.github.io/babelquarto1")
+# create_abs_lang_link("docs", base_link = "https://shafayetshafee.github.io/babelquarto1")
